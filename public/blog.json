@@ -1,0 +1,62 @@
+[
+  {
+    "id": "001",
+    "cover": "https://i.ibb.co/z47B8xQ/flat-lay-workstation-with-copy-space-laptop.jpg",
+    "title": "The Enchanted Forest",
+    "author": "Jane Doe",
+    "author_img": "https://i.ibb.co/PWcrFvC/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
+    "posted_date": "2023-09-27",
+    "reading_time": 15,
+    "hashtags": ["fantasy", "adventure"]
+  },
+  {
+    "id": "002",
+    "cover": "https://i.ibb.co/RD7DSjc/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "Mystery Mansion",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co/gVR6mXK/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+    "posted_date": "2023-09-28",
+    "reading_time": 20,
+    "hashtags": ["mystery", "thriller"]
+  },
+  {
+    "id": "003",
+    "cover": "https://i.ibb.co/PMx41K0/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+    "title": "Galactic Explorers",
+    "author": "Amanda Johnson",
+    "author_img": "https://i.ibb.co/3r29Yng/matheus-ferrero-pg-WCHWSd-T8-unsplash.jpg",
+    "posted_date": "2023-09-29",
+    "reading_time": 25,
+    "hashtags": ["science fiction", "space"]
+  },
+  {
+    "id": "004",
+    "cover": "https://i.ibb.co/fpdbvPn/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+    "title": "Cooking Adventures",
+    "author": "Michael Baker",
+    "author_img": "https://i.ibb.co/D5hPDQ8/ethan-hoover-0-YHIlxe-Cuhg-unsplash.jpg",
+    "posted_date": "2023-09-30",
+    "reading_time": 10,
+    "hashtags": ["cooking", "recipes"]
+  },
+  {
+    "id": "005",
+    "cover": "https://i.ibb.co/GpWgDWm/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+    "title": "Historical Journeys",
+    "author": "Emily Thompson",
+    "author_img": "https://i.ibb.co/Wgf01V4/vicky-hladynets-C8-Ta0gw-Pb-Qg-unsplash.jpg",
+    "posted_date": "2023-10-01",
+    "reading_time": 18,
+    "hashtags": ["history", "adventure"]
+  },
+  {
+    "id": "006",
+    "cover": "https://i.ibb.co/DQr45XF/jeshoots-com-p-UAM5h-Pa-CRI-unsplash.jpg",
+    "title": "Magical Creatures",
+    "author": "David Clark",
+    "author_img": "https://i.ibb.co/ZTGqMKH/joseph-pearson-827-XUh-VSp8-M-unsplash.jpg",
+    "posted_date": "2023-10-02",
+    "reading_time": 12,
+    "hashtags": ["fantasy", "creatures"]
+  }
+]
