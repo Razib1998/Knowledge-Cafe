@@ -10,9 +10,10 @@ const Blog = ({ blog, handleAddToBookMark, handleAddReadingTime }) => {
     posted_date,
     hashtags,
     reading_time,
+    id
   } = blog;
   return (
-    <div>
+    <div className="mt-16">
       <div className="card w-96 md:w-[700px] bg-gray-300 md:m-6 shadow-xl">
         <figure className="w-full">
           <img src={cover} alt={"Cover picture of the title ${title}"} />
@@ -51,7 +52,7 @@ const Blog = ({ blog, handleAddToBookMark, handleAddReadingTime }) => {
             ))}
           </p>
           <button
-            onClick={() =>handleAddReadingTime(reading_time)}
+            onClick={() =>handleAddReadingTime(reading_time,id)}
             className="text-bold text-purple-800 text-lg underline text-left"
           >
             Mark As Read
